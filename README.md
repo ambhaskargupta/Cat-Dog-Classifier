@@ -14,7 +14,6 @@ Transfer Learning with VGG16: The final layers of VGG16 are modified, and select
 
 Model Comparison: Evaluation of the performance of both models, demonstrating the effectiveness of transfer learning.
 
-Data Augmentation: Use of techniques such as random rotation, flipping, and scaling to enhance the model’s generalization capability.
 
 # Results
 The transfer learning approach using VGG16 achieved higher accuracy compared to the basic CNN architecture, demonstrating the advantage of leveraging pre-trained models.
