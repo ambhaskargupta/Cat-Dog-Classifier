@@ -9,8 +9,11 @@ Transfer Learning with VGG16: The well-known VGG16 model pre-trained on ImageNet
 
 # Features
 Basic CNN Model: Implementation of a CNN with a sequential architecture, including convolutional, pooling, and dense layers.
+
 Transfer Learning with VGG16: The final layers of VGG16 are modified, and selective layers are unfrozen for fine-tuning.
+
 Model Comparison: Evaluation of the performance of both models, demonstrating the effectiveness of transfer learning.
+
 Data Augmentation: Use of techniques such as random rotation, flipping, and scaling to enhance the model’s generalization capability.
 
 # Results
